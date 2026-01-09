@@ -1,0 +1,22 @@
+{
+  "heroBanners": [
+    {
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+      "title": "Next-Gen IT Solutions",
+      "description": "Powerful laptops, gaming PCs, and accessories for professionals.",
+      "cta": "Shop Now"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1593642634367-d91a135587b5",
+      "title": "Built for Performance",
+      "description": "Upgrade your workstation with premium hardware.",
+      "cta": "Explore Products"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e",
+      "title": "Unleash Gaming Power",
+      "description": "High-performance PCs and gear built for serious gamers.",
+      "cta": "Shop Gaming"
+    }
+  ]
+}

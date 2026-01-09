@@ -1,0 +1,204 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "domain": "apple.com",
+      "logo": "/brands/apple.svg",
+      "market_share": 27.3,
+      "category": "Consumer & Premium",
+      "country": "USA",
+      "color": "#000000"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo",
+      "domain": "lenovo.com",
+      "logo": "/brands/lenovo.svg",
+      "market_share": 24.2,
+      "category": "Consumer & Enterprise",
+      "country": "China",
+      "color": "#E2231A"
+    },
+    {
+      "id": 3,
+      "name": "HP",
+      "domain": "hp.com",
+      "logo": "/brands/hp.svg",
+      "market_share": 21.9,
+      "category": "Consumer & Enterprise",
+      "country": "USA",
+      "color": "#0096D6"
+    },
+    {
+      "id": 4,
+      "name": "Dell",
+      "domain": "dell.com",
+      "logo": "/brands/dell.svg",
+      "market_share": 16.1,
+      "category": "Enterprise",
+      "country": "USA",
+      "color": "#007DB8"
+    },
+    {
+      "id": 5,
+      "name": "Asus",
+      "domain": "asus.com",
+      "logo": "/brands/asus.svg",
+      "market_share": 7.8,
+      "category": "Gaming & Consumer",
+      "country": "Taiwan",
+      "color": "#000000"
+    },
+    {
+      "id": 6,
+      "name": "Acer",
+      "domain": "acer.com",
+      "logo": "/brands/acer.svg",
+      "market_share": 6.4,
+      "category": "Consumer",
+      "country": "Taiwan",
+      "color": "#83B81A"
+    },
+    {
+      "id": 7,
+      "name": "MSI",
+      "domain": "msi.com",
+      "logo": "/brands/msi.svg",
+      "market_share": 4.9,
+      "category": "Gaming",
+      "country": "Taiwan",
+      "color": "#9A8555"
+    },
+    {
+      "id": 8,
+      "name": "Samsung",
+      "domain": "samsung.com",
+      "logo": "/brands/samsung.svg",
+      "market_share": 3.6,
+      "category": "Consumer Electronics",
+      "country": "South Korea",
+      "color": "#1428A0"
+    },
+    {
+      "id": 9,
+      "name": "Microsoft",
+      "domain": "microsoft.com",
+      "logo": "/brands/microsoft.svg",
+      "market_share": 2.8,
+      "category": "Hybrid & Productivity",
+      "country": "USA",
+      "color": "#000000"
+    },
+    {
+      "id": 10,
+      "name": "Razer",
+      "domain": "razer.com",
+      "logo": "/brands/razer.svg",
+      "market_share": 1.9,
+      "category": "Gaming",
+      "country": "Singapore",
+      "color": "#00FF00"
+    },
+    {
+      "id": 11,
+      "name": "Huawei",
+      "domain": "huawei.com",
+      "logo": "/brands/huawei.svg",
+      "market_share": 1.7,
+      "category": "Consumer & Enterprise",
+      "country": "China",
+      "color": "#FF0000"
+    },
+    {
+      "id": 12,
+      "name": "LG",
+      "domain": "lg.com",
+      "logo": "/brands/lg.svg",
+      "market_share": 1.4,
+      "category": "Consumer Electronics",
+      "country": "South Korea",
+      "color": "#A50034"
+    },
+    {
+      "id": 13,
+      "name": "Sony",
+      "domain": "sony.com",
+      "logo": "/brands/sony.svg",
+      "market_share": 1.2,
+      "category": "Premium Consumer",
+      "country": "Japan",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": 14,
+      "name": "Toshiba",
+      "domain": "toshiba.com",
+      "logo": "/brands/toshiba.svg",
+      "market_share": 0.9,
+      "category": "Enterprise & Consumer",
+      "country": "Japan",
+      "color": "#FF0000"
+    },
+    {
+      "id": 15,
+      "name": "Fujitsu",
+      "domain": "fujitsu.com",
+      "logo": "/brands/fujitsu.svg",
+      "market_share": 0.8,
+      "category": "Enterprise",
+      "country": "Japan",
+      "color": "#FF0000"
+    },
+    {
+      "id": 16,
+      "name": "Gigabyte",
+      "domain": "gigabyte.com",
+      "logo": "/brands/gigabyte.svg",
+      "market_share": 0.7,
+      "category": "Gaming & Hardware",
+      "country": "Taiwan",
+      "color": "#000000"
+    },
+    {
+      "id": 17,
+      "name": "Alienware",
+      "domain": "alienware.com",
+      "logo": "/brands/alienware.svg",
+      "market_share": 0.6,
+      "category": "Gaming Premium",
+      "country": "USA",
+      "color": "#541BAE"
+    },
+    {
+      "id": 18,
+      "name": "VAIO",
+      "domain": "vaio.com",
+      "logo": "/brands/vaio.svg",
+      "market_share": 0.5,
+      "category": "Premium Consumer",
+      "country": "Japan",
+      "color": "#000000"
+    },
+    {
+      "id": 19,
+      "name": "Chuwi",
+      "domain": "chuwi.com",
+      "logo": "/brands/chuwi.svg",
+      "market_share": 0.4,
+      "category": "Budget Consumer",
+      "country": "China",
+      "color": "#000000"
+    },
+    {
+      "id": 20,
+      "name": "Framework",
+      "domain": "frame.work",
+      "logo": "/brands/framework.svg",
+      "market_share": 0.3,
+      "category": "Modular & Sustainable",
+      "country": "USA",
+      "color": "#000000"
+    }
+  ]
+}
