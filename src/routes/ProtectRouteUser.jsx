@@ -1,7 +1,7 @@
 import { currentUser } from "@/api/auth";
 import useEcomStore from "@/store/ecom-store";
 import { useState, useEffect } from "react";
-import LoadingToRedirect from "./loadingToRedirect";
+import LoadingToRedirect from "./LoadingToRedirect";
 import { Spinner } from "@/components/ui/spinner";
 
 const ProtectRouteUser = ({ element }) => {
